@@ -44,7 +44,7 @@ To get started with this project, clone the repository and follow the setup inst
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/shyamc757/real-time-sentiment-analysis.git
+   git clone https://github.com/Varad-Thikekar/real-time-spark-sentiment-analysis.git
    ```
 
 2. **Set Up Environment**:
@@ -65,7 +65,7 @@ Apache License - see the `LICENSE.md` file for details.
 
 ## Authors
 
-- Shyam Shah
+- Varad Thikekar
 
 ## Acknowledgments
 
